@@ -1,7 +1,8 @@
-'''
+from functions import *
+
+''''
 Premade Networks
 '''
-from functions import *
 
 class SimpleNet:
     def __init__(self):
